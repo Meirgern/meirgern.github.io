@@ -7228,7 +7228,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   background-size: cover;
   --inset: 32px;
   --background-opacity: 0.8;
-  background-image: url("https://cdn4.winhlb.com/2025/12/07/69359cefbb584.jpg");
+  background-image: url("https://cdn4.winhlb.com/2025/12/11/693ab59b75abd.jpg");
   filter: saturate(var(--saturate)) blur(var(--blur-px)) opacity(var(--background-opacity));
 }
 @media screen and (prefers-color-scheme: dark) {
