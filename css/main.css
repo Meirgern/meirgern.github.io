@@ -7222,13 +7222,13 @@ details.toc[open] >div.body section .header+.doc_tree {
   right: var(--inset);
   border-radius: 24px;
   --saturate: 400%;
-  --blur-px: 100px;
+  --blur-px: 50px;
   --background-opacity: 1;
   background-position: center;
   background-size: cover;
   --inset: 32px;
   --background-opacity: 0.8;
-  background-image: url("https://cdn4.winhlb.com/2025/12/11/693ab59b75abd.jpg");
+  background-image: url("https://cdn4.winhlb.com/2025/12/13/693cf82f24079.png");
   filter: saturate(var(--saturate)) blur(var(--blur-px)) opacity(var(--background-opacity));
 }
 @media screen and (prefers-color-scheme: dark) {
